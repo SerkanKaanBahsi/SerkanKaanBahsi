@@ -6,7 +6,6 @@ Python | C | Java | SQLite | PostgreSQL
 #### Familiar
 C++ | C#
 ## Contact Me
-- Website:  [Website](https://github.com/SerkanKaanBahsi)
 - LinkedIn: [@serkan-kaan-bahsi](https://www.linkedin.com/in/serkan-kaan-bahsi/)
 - Medium:   [@serkankaanbahsi](https://medium.com/@srknbhs)
 - Twitter:  [@srknbhs](https://twitter.com/SerkanKaanBahsi)
