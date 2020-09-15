@@ -1,8 +1,8 @@
 ## Junior Software Developer
 #### My Interests
-Machine Learning | Deep Learning | Game Design
+Machine Learning | Deep Learning | Data Science
 #### Proficient
-Python | C | Java | SQLite | PostgreSQL
+Python | C | Java | Scala | SQLite | PostgreSQL
 #### Familiar
 C++ | C#
 ## Contact Me
