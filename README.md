@@ -2,7 +2,7 @@
 #### My Interests
 Machine Learning | Deep Learning | Data Science
 #### Proficient
-Python | C | Java | Scala | SQLite | PostgreSQL
+Python | C | Tensorflow | Java | Scala | SQLite | PostgreSQL
 #### Familiar
 C++ | C#
 ## Contact Me
