@@ -4,7 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-serkankaanbahsi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:serkankaanbahsi@gmail.com)](mailto:serkankaanbahsi@gmail.com)
 ---
 
-<h3 align="center">Data Science, Deep Learning, Reinforcement Learning</h3>
 
 ### I'm Serkan Kaan Bahşi a man who is interested in Deep Learning, Reinforcement Learning and Data Science
 
