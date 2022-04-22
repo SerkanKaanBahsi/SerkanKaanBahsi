@@ -9,7 +9,7 @@
 
 ## 🧐 More About Me
 
-- 📚 I am currently working on Graph Neural Networks.
+- 📚 I am currently working on GAN's
 - 💻 I am currently learning Pytorch, OpenCv, C++
 - ☕ I love joining events and meeting new people
 - 👓 You can ask me about Python, Tensorflow, Keras, CNN
